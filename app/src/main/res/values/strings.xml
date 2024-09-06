@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextPdf</string>
+    <string name="SelectingText">In this article, we are going to implement a very important feature related to TextView. While using any social media app or like using Facebook you may have seen there is a particular type of TextView which you cannot copy like a caption that people write on their posts. You can select the message but there few texts which cannot select or copy. So here we are going to learn how to implement that feature </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
