@@ -18,10 +18,9 @@ The **Textfile Reader** project is an Android application developed using Androi
 
 The application provides a user-friendly interface for accessing and reading text files, with functionalities such as file browsing, text display, scrolling, and search capabilities.
 
+
 ## Conclusion
 
 The **Textfile Reader** app enhances the reading experience on Android devices by providing useful features such as meaning lookup, pronunciation, and Chat GPT integration. This project has expanded our expertise in Android app development, file handling, and API usage, delivering a valuable tool for text file reading.
 
----
 
-Feel free to adjust any sections as needed!
